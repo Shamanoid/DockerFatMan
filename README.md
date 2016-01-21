@@ -12,3 +12,7 @@ https://github.com/tianon/gosu
 
 ### No fat docker images
 Alpine Linux based
+
+#### nginx 1.8 (6.249 MB)
+Web server running on Alpine linux
+use nginx_shoot.sh <host_path_to_webapp>
